@@ -4,6 +4,11 @@
 
 ### 準備
 
+Windows 7の場合:  
+.NET Framework 4.5以上がインストールされていることを確認。  
+無い場合は[ここ](https://www.microsoft.com/ja-JP/download/details.aspx?id=30653)からダウンロードしてインストール。  
+Windows 10は標準でインストール済み。  
+
 まずOverlayPluginの最新版を[ここ](https://github.com/hibiyasleep/OverlayPlugin/releases/latest)からダウンロードする。  
 (例えば、Windows10 64bitならOverlayPlugin-0.3.4.0-x64-full.zip)  
 ダウンロードしたzipファイルを右クリック->プロパティを選択。
