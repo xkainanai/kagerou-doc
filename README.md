@@ -5,8 +5,12 @@
 ### 準備
 
 まずOverlayPluginの最新版を[ここ](https://github.com/hibiyasleep/OverlayPlugin/releases/latest)からダウンロードする。  
-(例えば、Windows10 64bitならOverlayPlugin-0.3.4.0-x64-full.zip)
+(例えば、Windows10 64bitならOverlayPlugin-0.3.4.0-x64-full.zip)  
+ダウンロードしたzipファイルを右クリック->プロパティを選択。
 
+![security](https://raw.githubusercontent.com/xkainanai/kagerou-doc/master/img/security.png)
+
+セキュリティ項目の"許可する"にチェックを入れてOKボタンを押す。  
 解凍してできたフォルダをACT本体(Advanced Combat Tracker.exe)のある場所に置く。
 
 ### インストール
